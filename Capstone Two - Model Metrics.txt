@@ -1,0 +1,15 @@
+Model type: Linear regression  
+
+Dependent (target) variable: Winter wheat yield (bushels per acre) 
+
+Independent (features) variables**: 
+	⁃	Corn yield 
+	⁃	Cotton yield
+	⁃	Rice yield
+	⁃	Soybean yield 
+
+**NOTES: 1) bushels per acre and 2) Yields are of the previous year with respect to winter wheat
+
+Model coefficients: -1.65, 0.97, 8.96, 2.39
+
+Model intercept: 43.4  
